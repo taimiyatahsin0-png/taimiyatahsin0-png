@@ -120,3 +120,18 @@ Status      : Undergraduate Student
 
 <a href="https://x.com/taimiya_tahsin" target="_blank">
 <img src="https://img.shields.io/badge/X-000000
+<a href="https://kaggle.com/taimiyatahsin" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@taimiyatahsin0" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.threads.com/@taimiyatahsin0" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+
+<a href="https://researchid.co/taimiya_tahsin" target="_blank">
+  <img src="https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
