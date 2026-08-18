@@ -20,6 +20,14 @@ Degree      : B.Sc. in Computer Science & Engineering
 Location    : Bangladesh 🇧🇩
 Status      : Undergraduate Student
 ```
+<p align="center">
+  <img src="./pastel_cat_blink.gif" width="350" alt="Cute blinking pastel cat"/>
+</p>
+
+<p align="center">
+  <i>Learning, building, and growing one step at a time. 🌱</i>
+</p>
+
 
 ## 💗 Interests
 
