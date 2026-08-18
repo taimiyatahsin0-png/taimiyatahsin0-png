@@ -126,7 +126,8 @@ Status      : Undergraduate Student
 
 
 <a href="https://x.com/taimiya_tahsin" target="_blank">
-<img src="https://img.shields.io/badge/X-000000
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 
   
 <a href="https://kaggle.com/taimiyatahsin" target="_blank">
