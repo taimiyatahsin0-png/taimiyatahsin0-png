@@ -99,31 +99,40 @@ Status      : Undergraduate Student
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
+
 <a href="https://www.linkedin.com/in/taimiyatahsin" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+
 
 <a href="https://orcid.org/0009-0007-9107-0176" target="_blank">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
+
 <a href="https://pin.it/781Fie0E8" target="_blank">
 <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
+
 
 <a href="https://instagram.com/taimiyatahsin0" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
 </a>
 
+
 <a href="https://facebook.com/taimiyatahsin01" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+
 <a href="https://x.com/taimiya_tahsin" target="_blank">
 <img src="https://img.shields.io/badge/X-000000
+
+  
 <a href="https://kaggle.com/taimiyatahsin" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
+
 
 <a href="https://medium.com/@taimiyatahsin0" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -132,6 +141,7 @@ Status      : Undergraduate Student
 <a href="https://www.threads.com/@taimiyatahsin0" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
+
 
 <a href="https://researchid.co/taimiya_tahsin" target="_blank">
   <img src="https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
