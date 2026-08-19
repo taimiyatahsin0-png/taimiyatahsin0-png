@@ -46,6 +46,8 @@ Status      : Undergraduate Student
 
 ---
 
+<img src="./the-aristocats-marie (cuteeee1).webp">
+
 ## 🌱 Currently Learning
 
 - C
