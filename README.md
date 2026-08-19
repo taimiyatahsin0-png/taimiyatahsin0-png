@@ -74,7 +74,7 @@ Status      : Undergraduate Student
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
-<img src="/.the-aristocats-writing-dowgoaln.webp">
+<img src="/.the-aristocats-writing-dowgoaln.webp/">
 
 # 🌸 Current Focus
 
@@ -89,6 +89,8 @@ Status      : Undergraduate Student
 🌍 Preparing for research and open-source contributions
 
 ---
+
+<img src="/.the-aristocats-marieconnect.webp/">
 
 # 🎯  Goals
 
