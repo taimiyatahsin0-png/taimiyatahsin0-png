@@ -59,9 +59,6 @@ Status      : Undergraduate Student
 
 ---
 
-## 🌸 Personal Motto
-
-> "Let whoever think whatever."
 
 ---<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
@@ -152,3 +149,5 @@ Status      : Undergraduate Student
 <a href="https://researchid.co/taimiya_tahsin" target="_blank">
   <img src="https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
+
+<img src="./the-aristocats-marie.gif">
