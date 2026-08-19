@@ -91,7 +91,7 @@ Status      : Undergraduate Student
 
 ---
 
-<img src="/.the-aristocats-marieconnect.webp/">
+<img src="./the-aristocats-marieconnect.webp">
 
 # 🎯  Goals
 
