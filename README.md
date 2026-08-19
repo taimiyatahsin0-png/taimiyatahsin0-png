@@ -14,6 +14,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=130&section=header"/>
 
+<img src="./marie-the-aristocats.gif">
+
+
 # 🌸 About Me
 
 ```yaml
