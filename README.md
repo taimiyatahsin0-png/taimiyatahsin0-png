@@ -35,7 +35,7 @@ Status      : Undergraduate Student
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
-## 💗 Interests
+### 💗 Interests
 
 - 🤖 Artificial Intelligence
 - 💻 Software Engineering
@@ -49,7 +49,8 @@ Status      : Undergraduate Student
 <img src="./the-aristocats-marie (cuteeee1).webp">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
-## 🌱 Currently Learning
+
+### 🌱 Currently Learning
 
 - C
 - C++
@@ -63,7 +64,7 @@ Status      : Undergraduate Student
 <img src="./the-aristocats-embarrassed.webp">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
 
@@ -76,7 +77,7 @@ Status      : Undergraduate Student
 
 <img src="/.the-aristocats-writing-dowgoaln.webp/">
 
-# 🌸 Current Focus
+### 🌸 Current Focus
 
 🌱 Strengthening programming fundamentals
 
@@ -102,6 +103,7 @@ Status      : Undergraduate Student
 - ✅ Create a Professional Portfolio
 
 ---
+<img src="./the-aristocats-marieconnect.webp">
 
 # 💗 Areas of Interest
 
