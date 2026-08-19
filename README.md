@@ -58,7 +58,7 @@ Status      : Undergraduate Student
 </p>
 
 
----<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
 # 🌸 Current Focus
 
