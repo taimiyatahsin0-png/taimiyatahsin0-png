@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./maire-the-aristocats.gif">
+
 # TAIMIYA TAHSIN
 
 ### Computer Science & Engineering Student
