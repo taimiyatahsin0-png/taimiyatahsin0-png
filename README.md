@@ -111,6 +111,10 @@ Status      : Undergraduate Student
 🩷 Machine Learning<img 
                     src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 
+<img src="./the-aristocats-disneyokkk.webp">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
+
 # 🌐 Let's Connect
 
 <p align="center">
@@ -168,4 +172,8 @@ Status      : Undergraduate Student
   <img src="https://img.shields.io/badge/ResearchID-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 <img src="./the-aristocats-marie.gif">
+
+<img src="./43777aabdfd50ec9184e63cb07919f62.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
