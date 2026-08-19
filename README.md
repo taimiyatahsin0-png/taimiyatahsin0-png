@@ -103,7 +103,7 @@ Status      : Undergraduate Student
 - ✅ Create a Professional Portfolio
 
 ---
-<img src="./the-aristocats-marieconnect.webp">
+<img src="./marie-the-aristocatsleep.webp">
 
 # 💗 Areas of Interest
 
