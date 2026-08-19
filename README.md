@@ -48,6 +48,7 @@ Status      : Undergraduate Student
 
 <img src="./the-aristocats-marie (cuteeee1).webp">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 ## 🌱 Currently Learning
 
 - C
@@ -59,6 +60,9 @@ Status      : Undergraduate Student
 
 ---
 
+<img src="./the-aristocats-embarrassed.webp">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
 ## 💻 Tech Stack
 
 <p align="center">
