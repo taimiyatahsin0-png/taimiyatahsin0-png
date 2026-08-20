@@ -9,7 +9,6 @@
 
 # TAIMIYA TAHSIN
 
-### Computer Science & Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&duration=3500&color=FF69B4&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+Enthusiast;Research+Enthusiast;Learning+C,+C%2B%2B,+Python,+Git+%26+GitHub;Dream+%E2%9C%A8+Learn+%F0%9F%8C%B8+Build"/>
 
